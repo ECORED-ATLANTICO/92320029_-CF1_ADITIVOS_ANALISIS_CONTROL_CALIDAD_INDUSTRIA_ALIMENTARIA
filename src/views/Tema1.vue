@@ -92,8 +92,8 @@
             h5 Figura 1.
             |    Objetivos de los aditivos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_1/img_11.svg', class="img-fluid d-none d-lg-block", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
-            img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-block d-lg-none", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
+            img(src='@/assets/curso/temas/tema_1/img_11.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption <b>Fuente:</b> Adaptado de Ibáñez et al, 2003.
 
       .row.justify-content-center.align-items-center.mb-5
@@ -124,8 +124,8 @@
             h5 Figura 2.
             |    Funciones específicas de los aditivos
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_1/img_16.svg', class="img-fluid d-none d-lg-block", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
-            img(src='@/assets/curso/temas/tema_1/img_17.svg', class="img-fluid d-block d-lg-none", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
+            img(src='@/assets/curso/temas/tema_1/img_16.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/temas/tema_1/img_17.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption <b>Fuente:</b> Adaptado de Ibáñez et al, 2003.
 
     .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="fade-right")

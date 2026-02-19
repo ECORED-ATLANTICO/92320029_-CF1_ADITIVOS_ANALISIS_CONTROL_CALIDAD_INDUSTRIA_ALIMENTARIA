@@ -334,8 +334,8 @@
             h5 Figura 3.
             |    Principales aplicaciones y funciones de los edulcorantes
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_3/img_17.svg', class="img-fluid d-none d-lg-block", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
-            img(src='@/assets/curso/temas/tema_3/img_18.svg', class="img-fluid d-block d-lg-none", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
+            img(src='@/assets/curso/temas/tema_3/img_17.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_18.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption <b>Fuente:</b> Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
       
       .tarjeta--bg-img.color-primario-5.rounded-3.p-0.mb-4.overflow-hidden(data-aos="zoom-in-right")
@@ -425,8 +425,8 @@
             h5 Figura 4.
             |    Principales funciones de los estabilizantes
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_3/img_23.svg', class="img-fluid d-none d-lg-block", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
-            img(src='@/assets/curso/temas/tema_3/img_24.svg', class="img-fluid d-block d-lg-none", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
+            img(src='@/assets/curso/temas/tema_3/img_23.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_24.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption <b>Fuente:</b> Adaptado Organización Mundial de la Salud (OMS, 2025).
       
       p.mb-5 Los estabilizantes más usados en la industria alimentaria, sus características y usos principales se pueden observar en la siguiente tabla:
@@ -506,8 +506,8 @@
             h5 Figura 5.
             |    Principales aplicaciones de los reguladores de pH
           figure(data-aos="flip-left")
-            img(src='@/assets/curso/temas/tema_3/img_28.svg', class="img-fluid d-none d-lg-block", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
-            img(src='@/assets/curso/temas/tema_3/img_29.svg', class="img-fluid d-block d-lg-none", alt="En la figura 1 se describen los tipos de monitoreo vial y se describe el sistema de monitoreo vial que se compone de: tecnologías como dispositivos con cámaras y sensores; procesos operativos que son procedimientos para la gestión del tráfico; herramientas analíticas como los software para el análisis de los datos; y las actividades de seguimiento que son las metas para lograr la seguridad y la eficiencia dentro del sistema.")
+            img(src='@/assets/curso/temas/tema_3/img_28.svg', class="img-fluid d-none d-lg-block").mb-5
+            img(src='@/assets/curso/temas/tema_3/img_29.svg', class="img-fluid d-block d-lg-none").mb-5
             figcaption <b>Fuente:</b> Adaptado del Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025).
       
       p.mb-5 En la siguiente tabla se muestran algunos de los reguladores de pH más usados en la industria alimentaria, sus características y usos frecuentes:
