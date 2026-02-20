@@ -15,7 +15,7 @@
         .col-12.col-lg-7.p-4
          .row
           .col-12.col-lg-2.mb-5.d-none.d-lg-block
-            img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid w-100")
+            img(src="@/assets/curso/temas/tema_1/img_2.svg", class="img-fluid w-100")
           .col-12.col-lg-12
             p.mb-0 Los aditivos alimentarios son sustancias que se adicionan intencionalmente a los alimentos con fines tecnológicos durante su producción, para mejorar su conservación, aspecto o sabor. Su uso es tan antiguo como la civilización, aunque su regulación y diversidad han evolucionado drásticamente con el propósito de mantener o mejorar las características físicas, químicas y sensoriales del alimento, sin comprometer la salud del consumidor (FAO & OMS, 2015).
 
@@ -35,9 +35,9 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-8.col-lg-10.mb-lg-0.mb-3(data-aos="fade-right")
               p.mb-0 Desde el Paleolítico, el ser humano ha utilizado aditivos como la sal, el ahumado y el zumo de limón para conservar alimentos. Con el desarrollo de la agricultura y la ganadería, se integraron el azafrán, la sal de nitro y el vinagre para mejorar la palatabilidad y gestionar excedentes.
-            .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="flip-left")
+            .col-8.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="flip-left")
               figure
-                img(src='@/assets/curso/temas/tema_1/img_5.png', class="img-fluid")
+                img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid w-100")
           .row.justify-content-center.align-items-center
             .col-12.col-lg-9.order-2.order-lg-1(data-aos='zoom-in-right').mb-0
               p.mb-0 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad (Ibáñez, Irigoyen y Torre, 2003).
@@ -48,7 +48,7 @@
             .row.justify-content-around.align-items-center.mb-0.h-100
               .col-12.col-lg-2.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
                 figure.p-0.m-0.h-100
-                  img(src="@/assets/curso/temas/tema_1/img_6.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
+                  img(src="@/assets/curso/temas/tema_1/img_6.svg" class="img-fluid w-100").p-0
               .col-12.col-lg-10.p-4.pe-5
                 .row.justify-content-between.align-items-center
                   .col.mb-5.mb-sm-0
@@ -76,7 +76,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
-                img(src='@/assets/curso/temas/tema_1/img_8.png', class="img-fluid")
+                img(src='@/assets/curso/temas/tema_1/img_8.svg', class="img-fluid")
             .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
               p.mb-0 Dado que los alimentos son sistemas dinámicos sujetos a cambios físicos y químicos que afectan su calidad, los aditivos permiten preservar sus propiedades sensoriales y corregir su estabilidad. De este modo, se garantiza la durabilidad y las características deseadas en el mercado actual.
         p.mb-0 Con el uso de los aditivos, la industria alimentaria ha pretendido alcanzar objetivos como los siguientes:
@@ -105,7 +105,7 @@
             .row.justify-content-center.align-items-center.mb-0.h-100
               .col-12.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
                 figure.p-0.m-0.h-100
-                  img(src="@/assets/curso/temas/tema_1/img_14.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
+                  img(src="@/assets/curso/temas/tema_1/img_14.svg" class="img-fluid w-100").p-0
               .col-12.col-lg-9.p-4
                 p.mb-0 Los aditivos alimentarios tienen como objetivos principales evitar el deterioro de los productos tras su producción y mejorar su aceptación comercial mediante una presentación más agradable. Según Ibáñez et al. (2003), sus funciones incluyen conservar, potenciar el sabor, mezclar, espesar, añadir color, mantener la consistencia y calidad, además de compensar carencias nutricionales.
 
@@ -134,7 +134,7 @@
           p.mb-0 Es fundamental que los aditivos alimentarios cumplan con la legislación vigente y los parámetros internacionales para garantizar la inocuidad y niveles de toxicidad seguros (Ibáñez et al., 2003). Su incorporación en cualquier etapa del proceso busca cumplir funciones tecnológicas, como mejorar la conservación, las propiedades sensoriales y las características físicas del producto (OMS, 2023).
         .col-12.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
           figure.p-0.m-0.h-100
-            img(src="@/assets/curso/temas/tema_1/img_18.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
+            img(src="@/assets/curso/temas/tema_1/img_18.svg" class="img-fluid w-100").p-0
 </template>
 
 <script>

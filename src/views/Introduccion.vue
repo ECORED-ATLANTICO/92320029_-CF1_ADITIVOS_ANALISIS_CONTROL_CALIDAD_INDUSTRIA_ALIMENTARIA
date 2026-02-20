@@ -21,7 +21,7 @@
           p.mb-0 Comprender el origen, la clasificación, la función y la regulación de los aditivos permite interpretar de manera adecuada los análisis físicoquímicos aplicados a los alimentos y tomar decisiones informadas dentro de los procesos de control de calidad. Este componente desarrolla los conceptos esenciales y su aplicación práctica, promoviendo el uso responsable y normado de los aditivos en coherencia con las exigencias del sector alimentario. 
         .col-5.col-lg-3.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
           figure.p-0.m-0.h-100
-            img(src="@/assets/curso/introduccion/img_3.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
+            img(src="@/assets/curso/introduccion/img_3.svg" class="img-fluid w-100 h-100 object-fit-cover").p-0
     
     figure.mb-5
       .video.mb-2

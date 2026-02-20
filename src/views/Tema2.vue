@@ -144,7 +144,7 @@
           .row.justify-content-around.align-items-center.mb-0.h-100
             .col-12.col-lg-2.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
               figure.p-0.m-0.h-100
-                img(src="@/assets/curso/temas/tema_1/img_6.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
+                img(src="@/assets/curso/temas/tema_1/img_6.svg" class="img-fluid w-100 h-100 object-fit-cover").p-0
             .col-12.col-lg-10.p-4.pe-5
               .row.justify-content-between.align-items-center
                 .col.mb-5.mb-sm-0
