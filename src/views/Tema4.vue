@@ -71,7 +71,12 @@
                 figure
                   img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid w-100")
               .col-12.col-lg-6.mb-lg-0
-                h2.text-white.mb-3 Pódcast
+                h2.text-white.mb-5 Pódcast
+                TarjetaAudio.color-acento-botones.mb-0.p-5(
+                  texto="Etiquetas bajo la lupa"
+                  :audio="require('@/assets/curso/temas/tema_4/img_10.png')"
+                  @audio-hover="mostrarIndicadorTarjetaAudio = True")
+                  .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
       Separador
 

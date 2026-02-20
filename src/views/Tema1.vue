@@ -15,7 +15,7 @@
         .col-12.col-lg-7.p-4
          .row
           .col-12.col-lg-2.mb-5.d-none.d-lg-block
-            img(src="@/assets/curso/temas/tema_1/img_2.svg", class="img-fluid w-100")
+            img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid w-100")
           .col-12.col-lg-12
             p.mb-0 Los aditivos alimentarios son sustancias que se adicionan intencionalmente a los alimentos con fines tecnológicos durante su producción, para mejorar su conservación, aspecto o sabor. Su uso es tan antiguo como la civilización, aunque su regulación y diversidad han evolucionado drásticamente con el propósito de mantener o mejorar las características físicas, químicas y sensoriales del alimento, sin comprometer la salud del consumidor (FAO & OMS, 2015).
 
@@ -32,15 +32,17 @@
           figure
             img(src='@/assets/curso/temas/tema_1/img_4.png', class="img-fluid")
         .col-12.col-lg-9
-          .row.justify-content-center.align-items-center.mb-5
+          .row.justify-content-center.align-items-center.mb-3
             .col-8.col-lg-10.mb-lg-0.mb-3(data-aos="fade-right")
               p.mb-0 Desde el Paleolítico, el ser humano ha utilizado aditivos como la sal, el ahumado y el zumo de limón para conservar alimentos. Con el desarrollo de la agricultura y la ganadería, se integraron el azafrán, la sal de nitro y el vinagre para mejorar la palatabilidad y gestionar excedentes.
             .col-8.col-lg-2.mb-lg-0.mb-3.d-none.d-lg-block(data-aos="flip-left")
               figure
                 img(src='@/assets/curso/temas/tema_1/img_5.svg', class="img-fluid w-100")
-          .row.justify-content-center.align-items-center
-            .col-12.col-lg-9.order-2.order-lg-1(data-aos='zoom-in-right').mb-0
-              p.mb-0 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad (Ibáñez, Irigoyen y Torre, 2003).
+          .bloque-texto-b.color-secundario-5.p-4(data-aos='zoom-in-right')
+            .bloque-texto-b__texto
+              i.fas.fa-quote-left
+              h4.mb-0 Aunque su uso fue empírico hasta el siglo XVIII, los avances químicos y las demandas industriales del siglo XIX formalizaron el término "aditivo", logrando la aceptación legal de su inocuidad (Ibáñez, Irigoyen y Torre, 2003).
+              i.fas.fa-quote-right
       
       .row.justify-content-center.align-items-center(data-aos="fade-right")
         .col-12.col-lg-10.mb-5

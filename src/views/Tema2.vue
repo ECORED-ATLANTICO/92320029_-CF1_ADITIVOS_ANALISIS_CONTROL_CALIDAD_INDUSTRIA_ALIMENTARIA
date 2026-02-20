@@ -92,7 +92,7 @@
         .col-12.col-lg-8(data-aos="zoom-in-right")
           p.mb-3 El Codex Alimentarius de la Organización Mundial de la Salud (OMS, 2025) clasifica los aditivos de acuerdo con su función tecnológica en categorías como colorantes, conservantes, antioxidantes, estabilizantes, acidulantes, edulcorantes y potenciadores del sabor, lo que facilita su correcta selección y aplicación. 
           p.mb-0 Cada grupo cumple una función específica que impacta la estabilidad, apariencia, sabor o vida útil del alimento.
-        .col-10.col-lg-1.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-10.col-lg-1.d-lg-block.d-none.mb-lg-0.mb-3(data-aos="flip-left")
           figure
             img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
      
